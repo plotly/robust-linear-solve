@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikolalysenko/robust-linear-solve.git"
+    "url": "git://github.com/plotly/robust-linear-solve.git"
   },
   "keywords": [
     "linear",
@@ -34,9 +34,9 @@
   "author": "Mikola Lysenko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mikolalysenko/robust-linear-solve/issues"
+    "url": "https://github.com/plotly/robust-linear-solve/issues"
   },
-  "homepage": "https://github.com/mikolalysenko/robust-linear-solve",
+  "homepage": "https://github.com/plotly/robust-linear-solve",
   "testling": {
     "files": "test/*.js",
     "browsers": [
